@@ -1,6 +1,6 @@
-#theOdinProject
+# theOdinProject
 
-*rock-paper-scissors
+* rock-paper-scissors
 
 Start a new Git repo for your project.
 Create a blank HTML document with a script tag (Hint: it is best practice to link an external .js file). This game is going to be played completely from the console, so don’t worry about putting anything else in there.
